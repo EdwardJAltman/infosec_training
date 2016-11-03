@@ -1,2 +1,2 @@
 # infosec_training
-Information security policy for clinical trail data.
+Training for authoring information security policy for clinical trail data.
